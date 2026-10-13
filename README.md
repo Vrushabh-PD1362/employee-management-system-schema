@@ -27,7 +27,7 @@ This project presents a relational database schema for an Employee Management Sy
 - Relational database normalization
 
 ## Project File
-- `employee_management_system.pdf` — Complete schema definitions and relationship cardinalities.
+- `employee_management_system_schema.md` — Complete schema definitions and relationship cardinalities.
 
 ## Purpose
 This project demonstrates relational database design skills, including entity identification, relationship modeling, constraint planning, and historical record management.
